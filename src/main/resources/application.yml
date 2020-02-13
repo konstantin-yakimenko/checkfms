@@ -1,0 +1,5 @@
+file:
+  uncompress: resources/blackpassports.csv
+  archive: resources/blackpassports.csv.bz2
+
+black-passport-url: https://guvm.mvd.ru/upload/expired-passports/list_of_expired_passports.csv.bz2
